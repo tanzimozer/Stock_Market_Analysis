@@ -43,4 +43,7 @@ stock-market-analysis/
 ├── README.md                   # Project overview and instructions
 ├── requirements.txt            # Python dependencies
 
+git clone https://github.com/tanzimozer/Stock_Market_Analysis.git
+cd Stock_Market_Analysis
+
 
